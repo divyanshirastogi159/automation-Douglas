@@ -1,0 +1,25 @@
+{
+  "navigateToCategory": [
+    { "category": "Parfum", "headingText": "Parfüm & Düfte" },
+    { "category": "Make-up", "headingText": "Make-up" }
+  ],
+  "filters": [
+    {
+      "highlights": "Sale",
+      "brand": "Versace",
+      "forWhom": "Männlich"
+    }
+  ],
+  "removeFilter": [
+    {
+      "highlights": "Sale",
+      "brand": "Versace",
+      "forWhom": "Männlich"
+    }
+  ],
+  "singleFilter": [
+    {
+      "highlights": "Sale"
+    }
+  ]
+}

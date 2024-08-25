@@ -8,6 +8,18 @@
       "highlights": "Sale",
       "brand": "Versace",
       "forWhom": "Männlich"
+    },    
+    {
+      "product": "Bodyspray",
+      "highlights": "NEU",
+      "forWhom": "Weiblich"
+    },
+    {
+      "product": "Eau de Parfum",
+      "highlights": "Limitiert",
+      "brand": "Mavemade",
+      "forWhom": "Unisex",
+      "giftFor": "Geburtstag"
     }
   ],
   "removeFilter": [
